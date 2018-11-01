@@ -9,7 +9,8 @@
 5. git add <file>
 6. git checkout -- <file>
 7. git commit -m "my comment" :
-8. git remote add origin https://github.com/hlebon/practical-git.git :
-9. git remote -v :
-10. git push --set-upstream origin master
-11. git clone git :
+8. git status:
+9. git remote add origin https://github.com/hlebon/practical-git.git :
+10. git remote -v :
+11. git push --set-upstream origin master
+12. git clone git :
